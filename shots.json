@@ -1,0 +1,6 @@
+[
+  { "name": "1-crane-alley.jpg", "query": "?shot=lane&seed=7" },
+  { "name": "2-site-firefight.jpg", "query": "?shot=firefight&seed=7" },
+  { "name": "3-buy-menu.jpg", "query": "?shot=buymenu&seed=7" },
+  { "name": "4-charge-armed.jpg", "query": "?shot=armed&seed=7" }
+]
